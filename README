@@ -1,0 +1,21 @@
+NOTE  ALL COMMAND SHOULD BE IN YOUR GIT BASH
+ create your virtual environment
+command: python -m "my_hub"
+
+
+change your directory to the "virtual environment folder"
+command: cd my_hub
+
+activate your virtual enviroment
+command: source. /Scripts/activate
+
+change your directory back to the project folder
+command: cd ..
+
+open your code editor
+command: code .
+
+import necessary libaries for your virtul enviroment
+all libaries are in the requiremnts files
+
+code.. in main.python
